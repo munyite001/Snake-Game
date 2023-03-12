@@ -39,6 +39,10 @@ body {
     grid-template: repeat(30, 1fr) / repeat(30, 1fr);
 }
 
-.food {
+.play-board .food {
     background-color: #FF003D;
+}
+
+.play-board .snakeHead {
+    background-color: #60CBFF;
 }
